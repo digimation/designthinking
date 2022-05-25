@@ -1,5 +1,4 @@
-# GitHub Basics
-
+# Design Thinking 
 Esta página está dedicada a guiarte por el contenido del curso "Fundamentales de GitHub" creado por el equipo de Patrones Hermosos.
 
 ## Introducción
